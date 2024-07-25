@@ -38,9 +38,18 @@
 
 ## USING TOOL
 ```sh
+pkg update && pkg upgrade
+```
+```sh
+pkg install python git
+```
+```sh
 git clone https://github.com/Sparux-666/EncodePy.git
 cd EncodePy
-pkg install python
+```
+```sh
 pip install -r requirements.txt
+```
+```sh
 python ENCODE666.py
 ```
