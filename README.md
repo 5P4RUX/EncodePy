@@ -19,8 +19,8 @@
 <br>
 <h4 align="center">DISCLAIMER > </h4><br>
 
-* This tool is for educational purposes only!
-* I will not be responsible for any misuse.
+* This tool allows Python to encrypt strings.
+* The algorithm has been shared publicly.
 
 <br>
 <h4 align="left">About > </h4><br>
